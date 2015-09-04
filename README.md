@@ -9,7 +9,13 @@ Features
 
 	When you launch your beta application, you can use this username/sharecode/share total information to reward users in a way that makes sense for your project.  Good luck!
 
-****INSTRUCTIONS****
+Screenshots of site
+	Homepage: http://swblankenship.com/wp-content/uploads/2015/09/Homepage.png
+	Homepage - Mobile: http://swblankenship.com/wp-content/uploads/2015/09/Homepage-Mobile.png
+	Signup Confirmation: http://swblankenship.com/wp-content/uploads/2015/09/Confirmation.png
+	About Us: http://swblankenship.com/wp-content/uploads/2015/09/About-Us.png
+	
+****INSTRUCTIONS**
 INTALLING
 	1. copy all github files into a folder called app then Install the app folder like you would with any other CakePHP application (install CakePHP and replace the app folder with the one you just created).
 
